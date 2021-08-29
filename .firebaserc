@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-sf-poc": {
+      "hosting": {
+        "projSfNg9": [
+          "angular-sf-poc"
+        ]
+      }
+    }
+  }
+}
